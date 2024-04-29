@@ -131,7 +131,7 @@ z-index: 100;
 
 
 .penetrate-blur h1 {
-    font-size: 200px;
+    font-size: 150px;
     text-shadow: 0 0 10px rgba(255, 255, 255, .8);
 }
 
@@ -192,7 +192,7 @@ z-index: 100;
 }
 
 .right-info h1{
-    font-size: 200px;
+    font-size: 150px;
     color: #fff;
     text-shadow: 
     0 1px 0 #ccc,
@@ -211,7 +211,7 @@ z-index: 100;
 
 .right-info h3{
     position: absolute;
-    font-size: 80px;
+    font-size: 60px;
     color: #fff;
     text-shadow: 0 0 10px rgba(0, 0, 0, .5);
     transform: translateY(150%);
