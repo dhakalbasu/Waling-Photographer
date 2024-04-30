@@ -31,3 +31,4 @@ prevBtn.onclick = () => { // Corrected 'oneclick' to 'onclick'
     }
     slides[slideNumber].classList.add('active');
 };
+
